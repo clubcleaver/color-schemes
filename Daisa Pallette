@@ -1,0 +1,10 @@
+[[Daisa Pallete]]
+    allow_bold = False
+    icon_bell = False
+    background_darkness = 0.0
+    background_image = /home/kali/Documents/images/texture_back.jpg
+    font = VictorMono Nerd Font 13
+    foreground_color = "#9de3dc"
+    show_titlebar = False
+    palette = "#02262f:#a51d2d:#6bafa3:#a17e47:#7458a0:#99c1f1:#2786a8:#ffffff:#0f8b93:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#eeeeec"
+    use_system_font = False
