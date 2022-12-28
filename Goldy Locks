@@ -1,0 +1,11 @@
+[[Goldy Locks]]
+    allow_bold = False
+    background_color = "#000b0b"
+    background_darkness = 0.02
+    background_type = image
+    background_image = ./texture_back.jpg
+    font = TerminessTTF Nerd Font Medium 14
+    foreground_color = "#e2c45a"
+    show_titlebar = False
+    palette = "#1e1e1e:#e62a00:#f9f06b:#b5835a:#e5a50a:#ffbb15:#e5a50a:#f9f06b:#966300:#ef2929:#8ae234:#fce94f:#729f>
+    use_system_font = False
