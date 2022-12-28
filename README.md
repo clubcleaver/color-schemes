@@ -15,3 +15,4 @@ I have created a background image specifically for the following color themes:
 ## I never use white background in terminal, or in general. So the themes here are only for dark background.
 
 Hope you enjoy!
+cheers
