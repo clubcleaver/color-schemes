@@ -1,9 +1,10 @@
 # Color Schemes
 Great color schemes for terminals and general text themes.
-these colors have beed carefully chosen by an artist **my wife**, and are meant for long exposures to text and screen. Also helps if you are bored of the popular themes and/or are looking for a fresh take on terminal esthetics.
+these colors have beed carefully chosen, and are meant for long exposures to text and screen. Also helps if you are bored of the popular themes and/or are looking for a fresh take on terminal esthetics.
 
 ## How to use
 these schemes are in terminator config file format.
+Just copy and paste the content in the terminator config file and you are good to go.
 you can copy the palette from it to use elsewhere as well.
 
 # Font Recommendation:
